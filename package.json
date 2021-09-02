@@ -6,7 +6,7 @@
   "description": "Interview solution for trust pilot ",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "localforage": "^1.7.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
